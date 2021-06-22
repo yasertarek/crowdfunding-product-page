@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot-desktop.jpg)
-![](./screenshot-mobile.jpg)
+![](./screenshot-desktop.png)
+![](./screenshot-mobile.png)
 ### Links
 
 - Solution URL: [Frontend Mentor Solution](https://your-solution-url.com)
