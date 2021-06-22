@@ -1,6 +1,6 @@
 # Frontend Mentor - Blogr landing page solution
 
-This is a solution to the [Blogr landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blogr-landing-page-EX2RLAApP). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Crowdfunding product page challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-crowdfunding-product-page-5ZNNcEVif). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -26,7 +26,7 @@ Users should be able to:
 ![](./screenshot-mobile.png)
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/responsive-crowdfunding-product-page-5ZNNcEVif)
 - Live Site URL: [Github Pages](https://yasertarek.github.io/crowdfunding-product-page)
 
 ## My process
